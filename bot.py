@@ -5,7 +5,7 @@ import subprocess
 import os
 import re
 
-TOKEN = "8949377674:AAGzyM8WLm5YTFQZPVuRJB9qNZEdU7R1yyQ"
+TOKEN = "8821734542:AAE0CqFeawlkXSYlSkfHfGxcfTERdepN1so"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
