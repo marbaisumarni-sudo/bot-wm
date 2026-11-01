@@ -1,3 +1,2 @@
-python-telegram-bot
-requests
-yt-dlp
+pip install --upgrade python-telegram-bot requests yt-dlp google-genai
+
